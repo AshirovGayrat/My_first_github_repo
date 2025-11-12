@@ -5,6 +5,9 @@ public class Main {
         System.out.println("Hello GitHub");
 
         UserEntity entity = new UserEntity();
+        entity.name = "Ali";
+
+        System.out.println( entity );
 
     }
 }
