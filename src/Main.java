@@ -4,5 +4,7 @@ public class Main {
 
         System.out.println("Hello GitHub");
 
+        UserEntity entity = new UserEntity();
+
     }
 }
